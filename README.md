@@ -1,6 +1,7 @@
 # WDT: Web Development Tools
-## Grid
+## CSS
+### Grid
 To be redacted...
 
-## Color
+### Color
 To be redacted...
