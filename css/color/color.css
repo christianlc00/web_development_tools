@@ -1,223 +1,139 @@
-.red {
-    background-color: #F44336 !important
-}
-
-.red-text {
-    color: #F44336 !important
-}
-
+.red,
 .red-hover:hover {
     background-color: #F44336 !important
 }
 
+.red-text,
 .red-text-hover:hover {
     color: #F44336 !important
 }
 
-.red.lighten-5 {
-    background-color: #FFEBEE !important
-}
-
-.red-text.text-lighten-5 {
-    color: #FFEBEE !important
-}
-
+.red.lighten-5,
 .red-hover.lighten-5:hover {
     background-color: #FFEBEE !important
 }
 
+.red-text.text-lighten-5,
 .red-text-hover.text-lighten-5:hover {
     color: #FFEBEE !important
 }
 
-.red.lighten-4 {
-    background-color: #FFCDD2 !important
-}
-
-.red-text.text-lighten-4 {
-    color: #FFCDD2 !important
-}
-
+.red.lighten-4,
 .red-hover.lighten-4:hover {
     background-color: #FFCDD2 !important
 }
 
+.red-text.text-lighten-4,
 .red-text-hover.text-lighten-4:hover {
     color: #FFCDD2 !important
 }
 
-.red.lighten-3 {
-    background-color: #EF9A9A !important
-}
-
-.red-text.text-lighten-3 {
-    color: #EF9A9A !important
-}
-
+.red.lighten-3,
 .red-hover.lighten-3:hover {
     background-color: #EF9A9A !important
 }
 
+.red-text.text-lighten-3,
 .red-text-hover.text-lighten-3:hover {
     color: #EF9A9A !important
 }
 
-.red.lighten-2 {
-    background-color: #E57373 !important
-}
-
-.red-text.text-lighten-2 {
-    color: #E57373 !important
-}
-
+.red.lighten-2,
 .red-hover.lighten-2:hover {
     background-color: #E57373 !important
 }
 
+.red-text.text-lighten-2,
 .red-text-hover.text-lighten-2:hover {
     color: #E57373 !important
 }
 
-.red.lighten-1 {
-    background-color: #EF5350 !important
-}
-
-.red-text.text-lighten-1 {
-    color: #EF5350 !important
-}
-
+.red.lighten-1,
 .red-hover.lighten-1:hover {
     background-color: #EF5350 !important
 }
 
+.red-text.text-lighten-1,
 .red-text-hover.text-lighten-1:hover {
     color: #EF5350 !important
 }
 
-.red.darken-1 {
-    background-color: #E53935 !important
-}
-
-.red-text.text-darken-1 {
-    color: #E53935 !important
-}
-
+.red.darken-1,
 .red-hover.darken-1:hover {
     background-color: #E53935 !important
 }
 
+.red-text.text-darken-1,
 .red-text-hover.text-darken-1:hover {
     color: #E53935 !important
 }
 
-.red.darken-2 {
-    background-color: #D32F2F !important
-}
-
-.red-text.text-darken-2 {
-    color: #D32F2F !important
-}
-
+.red.darken-2,
 .red-hover.darken-2:hover {
     background-color: #D32F2F !important
 }
 
+.red-text.text-darken-2,
 .red-text-hover.text-darken-2:hover {
     color: #D32F2F !important
 }
 
-.red.darken-3 {
-    background-color: #C62828 !important
-}
-
-.red-text.text-darken-3 {
-    color: #C62828 !important
-}
-
+.red.darken-3,
 .red-hover.darken-3:hover {
     background-color: #C62828 !important
 }
 
+.red-text.text-darken-3,
 .red-text-hover.text-darken-3:hover {
     color: #C62828 !important
 }
 
-.red.darken-4 {
-    background-color: #B71C1C !important
-}
-
-.red-text.text-darken-4 {
-    color: #B71C1C !important
-}
-
+.red.darken-4,
 .red-hover.darken-4:hover {
     background-color: #B71C1C !important
 }
 
+.red-text.text-darken-4,
 .red-text-hover.text-darken-4:hover {
     color: #B71C1C !important
 }
 
-.red.accent-1 {
-    background-color: #FF8A80 !important
-}
-
-.red-text.text-accent-1 {
-    color: #FF8A80 !important
-}
-
+.red.accent-1,
 .red-hover.accent-1:hover {
     background-color: #FF8A80 !important
 }
 
+.red-text.text-accent-1,
 .red-text-hover.text-accent-1:hover {
     color: #FF8A80 !important
 }
 
-.red.accent-2 {
-    background-color: #FF5252 !important
-}
-
-.red-text.text-accent-2 {
-    color: #FF5252 !important
-}
-
+.red.accent-2,
 .red-hover.accent-2:hover {
     background-color: #FF5252 !important
 }
 
+.red-text.text-accent-2,
 .red-text-hover.text-accent-2:hover {
     color: #FF5252 !important
 }
 
-.red.accent-3 {
-    background-color: #FF1744 !important
-}
-
-.red-text.text-accent-3 {
-    color: #FF1744 !important
-}
-
+.red.accent-3,
 .red-hover.accent-3:hover {
     background-color: #FF1744 !important
 }
 
+.red-text.text-accent-3,
 .red-text-hover.text-accent-3:hover {
     color: #FF1744 !important
 }
 
-.red.accent-4 {
-    background-color: #D50000 !important
-}
-
-.red-text.text-accent-4 {
-    color: #D50000 !important
-}
-
+.red.accent-4,
 .red-hover.accent-4:hover {
     background-color: #D50000 !important
 }
 
+.red-text.text-accent-4,
 .red-text-hover.text-accent-4:hover {
     color: #D50000 !important
 }
