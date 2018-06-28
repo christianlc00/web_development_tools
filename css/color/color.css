@@ -138,226 +138,142 @@
     color: #D50000 !important
 }
 
-.pink {
-    background-color: #e91e63 !important
-}
-
-.pink-text {
-    color: #e91e63 !important
-}
-
+.pink,
 .pink-hover:hover {
     background-color: #e91e63 !important
 }
 
+.pink-text,
 .pink-text-hover:hover {
     color: #e91e63 !important
 }
 
-.pink.lighten-5 {
-    background-color: #fce4ec !important
-}
-
-.pink-text.text-lighten-5 {
-    color: #fce4ec !important
-}
-
+.pink.lighten-5,
 .pink-hover.lighten-5:hover {
     background-color: #fce4ec !important
 }
 
+.pink-text.text-lighten-5,
 .pink-text-hover.text-lighten-5:hover {
     color: #fce4ec !important
 }
 
-.pink.lighten-4 {
-    background-color: #f8bbd0 !important
-}
-
-.pink-text.text-lighten-4 {
-    color: #f8bbd0 !important
-}
-
+.pink.lighten-4,
 .pink-hover.lighten-4:hover {
     background-color: #f8bbd0 !important
 }
 
+.pink-text.text-lighten-4,
 .pink-text-hover.text-lighten-4:hover {
     color: #f8bbd0 !important
 }
 
-.pink.lighten-3 {
-    background-color: #f48fb1 !important
-}
-
-.pink-text.text-lighten-3 {
-    color: #f48fb1 !important
-}
-
+.pink.lighten-3,
 .pink-hover.lighten-3:hover {
     background-color: #f48fb1 !important
 }
 
+.pink-text.text-lighten-3,
 .pink-text-hover.text-lighten-3:hover {
     color: #f48fb1 !important
 }
 
-.pink.lighten-2 {
-    background-color: #f06292 !important
-}
-
-.pink-text.text-lighten-2 {
-    color: #f06292 !important
-}
-
+.pink.lighten-2,
 .pink-hover.lighten-2:hover {
     background-color: #f06292 !important
 }
 
+.pink-text.text-lighten-2,
 .pink-text-hover.text-lighten-2:hover {
     color: #f06292 !important
 }
 
-.pink.lighten-1 {
-    background-color: #ec407a !important
-}
-
-.pink-text.text-lighten-1 {
-    color: #ec407a !important
-}
-
+.pink.lighten-1,
 .pink-hover.lighten-1:hover {
     background-color: #ec407a !important
 }
 
+.pink-text.text-lighten-1,
 .pink-text-hover.text-lighten-1:hover {
     color: #ec407a !important
 }
 
-.pink.darken-1 {
-    background-color: #d81b60 !important
-}
-
-.pink-text.text-darken-1 {
-    color: #d81b60 !important
-}
-
+.pink.darken-1,
 .pink-hover.darken-1:hover {
     background-color: #d81b60 !important
 }
 
+.pink-text.text-darken-1,
 .pink-text-hover.text-darken-1:hover {
     color: #d81b60 !important
 }
 
-.pink.darken-2 {
-    background-color: #c2185b !important
-}
-
-.pink-text.text-darken-2 {
-    color: #c2185b !important
-}
-
+.pink.darken-2,
 .pink-hover.darken-2:hover {
     background-color: #c2185b !important
 }
 
+.pink-text.text-darken-2,
 .pink-text-hover.text-darken-2:hover {
     color: #c2185b !important
 }
 
-.pink.darken-3 {
-    background-color: #ad1457 !important
-}
-
-.pink-text.text-darken-3 {
-    color: #ad1457 !important
-}
-
+.pink.darken-3,
 .pink-hover.darken-3:hover {
     background-color: #ad1457 !important
 }
 
+.pink-text.text-darken-3,
 .pink-text-hover.text-darken-3:hover {
     color: #ad1457 !important
 }
 
-.pink.darken-4 {
-    background-color: #880e4f !important
-}
-
-.pink-text.text-darken-4 {
-    color: #880e4f !important
-}
-
+.pink.darken-4,
 .pink-hover.darken-4:hover {
     background-color: #880e4f !important
 }
 
+.pink-text.text-darken-4,
 .pink-text-hover.text-darken-4:hover {
     color: #880e4f !important
 }
 
-.pink.accent-1 {
-    background-color: #ff80ab !important
-}
-
-.pink-text.text-accent-1 {
-    color: #ff80ab !important
-}
-
+.pink.accent-1,
 .pink-hover.accent-1:hover {
     background-color: #ff80ab !important
 }
 
+.pink-text.text-accent-1,
 .pink-text-hover.text-accent-1:hover {
     color: #ff80ab !important
 }
 
-.pink.accent-2 {
-    background-color: #ff4081 !important
-}
-
-.pink-text.text-accent-2 {
-    color: #ff4081 !important
-}
-
+.pink.accent-2,
 .pink-hover.accent-2:hover {
     background-color: #ff4081 !important
 }
 
+.pink-text.text-accent-2,
 .pink-text-hover.text-accent-2:hover {
     color: #ff4081 !important
 }
 
-.pink.accent-3 {
-    background-color: #f50057 !important
-}
-
-.pink-text.text-accent-3 {
-    color: #f50057 !important
-}
-
+.pink.accent-3,
 .pink-hover.accent-3:hover {
     background-color: #f50057 !important
 }
 
+.pink-text.text-accent-3,
 .pink-text-hover.text-accent-3:hover {
     color: #f50057 !important
 }
 
-.pink.accent-4 {
-    background-color: #c51162 !important
-}
-
-.pink-text.text-accent-4 {
-    color: #c51162 !important
-}
-
+.pink.accent-4,
 .pink-hover.accent-4:hover {
     background-color: #c51162 !important
 }
 
+.pink-text.text-accent-4,
 .pink-text-hover.text-accent-4:hover {
     color: #c51162 !important
 }
