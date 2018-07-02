@@ -1118,899 +1118,507 @@
     color: #00b8d4 !important
 }
 
-.teal {
-    background-color: #009688 !important
-}
-
-.teal-text {
-    color: #009688 !important
-}
-
+.teal,
 .teal-hover:hover {
     background-color: #009688 !important
 }
 
+.teal-text,
 .teal-text-hover:hover {
     color: #009688 !important
 }
 
-.teal.lighten-5 {
-    background-color: #e0f2f1 !important
-}
-
-.teal-text.text-lighten-5 {
-    color: #e0f2f1 !important
-}
-
+.teal.lighten-5,
 .teal-hover.lighten-5:hover {
     background-color: #e0f2f1 !important
 }
 
+.teal-text.text-lighten-5,
 .teal-text-hover.text-lighten-5:hover {
     color: #e0f2f1 !important
 }
 
-.teal.lighten-4 {
-    background-color: #b2dfdb !important
-}
-
-.teal-text.text-lighten-4 {
-    color: #b2dfdb !important
-}
-
+.teal.lighten-4,
 .teal-hover.lighten-4:hover {
     background-color: #b2dfdb !important
 }
 
+.teal-text.text-lighten-4,
 .teal-text-hover.text-lighten-4:hover {
     color: #b2dfdb !important
 }
 
-.teal.lighten-3 {
-    background-color: #80cbc4 !important
-}
-
-.teal-text.text-lighten-3 {
-    color: #80cbc4 !important
-}
-
+.teal.lighten-3,
 .teal-hover.lighten-3:hover {
     background-color: #80cbc4 !important
 }
 
+.teal-text.text-lighten-3,
 .teal-text-hover.text-lighten-3:hover {
     color: #80cbc4 !important
 }
 
-.teal.lighten-2 {
-    background-color: #4db6ac !important
-}
-
-.teal-text.text-lighten-2 {
-    color: #4db6ac !important
-}
-
+.teal.lighten-2,
 .teal-hover.lighten-2:hover {
     background-color: #4db6ac !important
 }
 
+.teal-text.text-lighten-2,
 .teal-text-hover.text-lighten-2:hover {
     color: #4db6ac !important
 }
 
-.teal.lighten-1 {
-    background-color: #26a69a !important
-}
-
-.teal-text.text-lighten-1 {
-    color: #26a69a !important
-}
-
+.teal.lighten-1,
 .teal-hover.lighten-1:hover {
     background-color: #26a69a !important
 }
 
+.teal-text.text-lighten-1,
 .teal-text-hover.text-lighten-1:hover {
     color: #26a69a !important
 }
 
-.teal.darken-1 {
-    background-color: #00897b !important
-}
-
-.teal-text.text-darken-1 {
-    color: #00897b !important
-}
-
+.teal.darken-1,
 .teal-hover.darken-1:hover {
     background-color: #00897b !important
 }
 
+.teal-text.text-darken-1,
 .teal-text-hover.text-darken-1:hover {
     color: #00897b !important
 }
 
-.teal.darken-2 {
-    background-color: #00796b !important
-}
-
-.teal-text.text-darken-2 {
-    color: #00796b !important
-}
-
+.teal.darken-2,
 .teal-hover.darken-2:hover {
     background-color: #00796b !important
 }
 
+.teal-text.text-darken-2,
 .teal-text-hover.text-darken-2:hover {
     color: #00796b !important
 }
 
-.teal.darken-3 {
-    background-color: #00695c !important
-}
-
-.teal-text.text-darken-3 {
-    color: #00695c !important
-}
-
+.teal.darken-3,
 .teal-hover.darken-3:hover {
     background-color: #00695c !important
 }
 
+.teal-text.text-darken-3,
 .teal-text-hover.text-darken-3:hover {
     color: #00695c !important
 }
 
-.teal.darken-4 {
-    background-color: #004d40 !important
-}
-
-.teal-text.text-darken-4 {
-    color: #004d40 !important
-}
-
+.teal.darken-4,
 .teal-hover.darken-4:hover {
     background-color: #004d40 !important
 }
 
+.teal-text.text-darken-4,
 .teal-text-hover.text-darken-4:hover {
     color: #004d40 !important
 }
 
-.teal.accent-1 {
-    background-color: #a7ffeb !important
-}
-
-.teal-text.text-accent-1 {
-    color: #a7ffeb !important
-}
-
+.teal.accent-1,
 .teal-hover.accent-1:hover {
     background-color: #a7ffeb !important
 }
 
+.teal-text.text-accent-1,
 .teal-text-hover.text-accent-1:hover {
     color: #a7ffeb !important
 }
 
-.teal.accent-2 {
-    background-color: #64ffda !important
-}
-
-.teal-text.text-accent-2 {
-    color: #64ffda !important
-}
-
+.teal.accent-2,
 .teal-hover.accent-2:hover {
     background-color: #64ffda !important
 }
 
+.teal-text.text-accent-2,
 .teal-text-hover.text-accent-2:hover {
     color: #64ffda !important
 }
 
-.teal.accent-3 {
-    background-color: #1de9b6 !important
-}
-
-.teal-text.text-accent-3 {
-    color: #1de9b6 !important
-}
-
+.teal.accent-3,
 .teal-hover.accent-3:hover {
     background-color: #1de9b6 !important
 }
 
+.teal-text.text-accent-3,
 .teal-text-hover.text-accent-3:hover {
     color: #1de9b6 !important
 }
 
-.teal.accent-4 {
-    background-color: #00bfa5 !important
-}
-
-.teal-text.text-accent-4 {
-    color: #00bfa5 !important
-}
-
+.teal.accent-4,
 .teal-hover.accent-4:hover {
     background-color: #00bfa5 !important
 }
 
+.teal-text.text-accent-4,
 .teal-text-hover.text-accent-4:hover {
     color: #00bfa5 !important
 }
 
-.green {
-    background-color: #4CAF50 !important
-}
-
-.green-text {
-    color: #4CAF50 !important
-}
-
+.green,
 .green-hover:hover {
     background-color: #4CAF50 !important
 }
 
+.green-text,
 .green-text-hover:hover {
     color: #4CAF50 !important
 }
 
-.green.lighten-5 {
-    background-color: #E8F5E9 !important
-}
-
-.green-text.text-lighten-5 {
-    color: #E8F5E9 !important
-}
-
+.green.lighten-5,
 .green-hover.lighten-5:hover {
     background-color: #E8F5E9 !important
 }
 
+.green-text.text-lighten-5,
 .green-text-hover.text-lighten-5:hover {
     color: #E8F5E9 !important
 }
 
-.green.lighten-4 {
-    background-color: #C8E6C9 !important
-}
-
-.green-text.text-lighten-4 {
-    color: #C8E6C9 !important
-}
-
+.green.lighten-4,
 .green-hover.lighten-4:hover {
     background-color: #C8E6C9 !important
 }
 
+.green-text.text-lighten-4,
 .green-text-hover.text-lighten-4:hover {
     color: #C8E6C9 !important
 }
 
-.green.lighten-3 {
-    background-color: #A5D6A7 !important
-}
-
-.green-text.text-lighten-3 {
-    color: #A5D6A7 !important
-}
-
+.green.lighten-3,
 .green-hover.lighten-3:hover {
     background-color: #A5D6A7 !important
 }
 
+.green-text.text-lighten-3,
 .green-text-hover.text-lighten-3:hover {
     color: #A5D6A7 !important
 }
 
-.green.lighten-2 {
-    background-color: #81C784 !important
-}
-
-.green-text.text-lighten-2 {
-    color: #81C784 !important
-}
-
+.green.lighten-2,
 .green-hover.lighten-2:hover {
     background-color: #81C784 !important
 }
 
+.green-text.text-lighten-2,
 .green-text-hover.text-lighten-2:hover {
     color: #81C784 !important
 }
 
-.green.lighten-1 {
-    background-color: #66BB6A !important
-}
-
-.green-text.text-lighten-1 {
-    color: #66BB6A !important
-}
-
+.green.lighten-1,
 .green-hover.lighten-1:hover {
     background-color: #66BB6A !important
 }
 
+.green-text.text-lighten-1,
 .green-text-hover.text-lighten-1:hover {
     color: #66BB6A !important
 }
 
-.green.darken-1 {
-    background-color: #43A047 !important
-}
-
-.green-text.text-darken-1 {
-    color: #43A047 !important
-}
-
+.green.darken-1,
 .green-hover.darken-1:hover {
     background-color: #43A047 !important
 }
 
+.green-text.text-darken-1,
 .green-text-hover.text-darken-1:hover {
     color: #43A047 !important
 }
 
-.green.darken-2 {
-    background-color: #388E3C !important
-}
-
-.green-text.text-darken-2 {
-    color: #388E3C !important
-}
-
+.green.darken-2,
 .green-hover.darken-2:hover {
     background-color: #388E3C !important
 }
 
+.green-text.text-darken-2,
 .green-text-hover.text-darken-2:hover {
     color: #388E3C !important
 }
 
-.green.darken-3 {
-    background-color: #2E7D32 !important
-}
-
-.green-text.text-darken-3 {
-    color: #2E7D32 !important
-}
-
+.green.darken-3,
 .green-hover.darken-3:hover {
     background-color: #2E7D32 !important
 }
 
+.green-text.text-darken-3,
 .green-text-hover.text-darken-3:hover {
     color: #2E7D32 !important
 }
 
-.green.darken-4 {
-    background-color: #1B5E20 !important
-}
-
-.green-text.text-darken-4 {
-    color: #1B5E20 !important
-}
-
+.green.darken-4,
 .green-hover.darken-4:hover {
     background-color: #1B5E20 !important
 }
 
+.green-text.text-darken-4,
 .green-text-hover.text-darken-4:hover {
     color: #1B5E20 !important
 }
 
-.green.accent-1 {
-    background-color: #B9F6CA !important
-}
-
-.green-text.text-accent-1 {
-    color: #B9F6CA !important
-}
-
+.green.accent-1,
 .green-hover.accent-1:hover {
     background-color: #B9F6CA !important
 }
 
+.green-text.text-accent-1,
 .green-text-hover.text-accent-1:hover {
     color: #B9F6CA !important
 }
 
-.green.accent-2 {
-    background-color: #69F0AE !important
-}
-
-.green-text.text-accent-2 {
-    color: #69F0AE !important
-}
-
+.green.accent-2,
 .green-hover.accent-2:hover {
     background-color: #69F0AE !important
 }
 
+.green-text.text-accent-2,
 .green-text-hover.text-accent-2:hover {
     color: #69F0AE !important
 }
 
-.green.accent-3 {
-    background-color: #00E676 !important
-}
-
-.green-text.text-accent-3 {
-    color: #00E676 !important
-}
-
+.green.accent-3,
 .green-hover.accent-3:hover {
     background-color: #00E676 !important
 }
 
+.green-text.text-accent-3,
 .green-text-hover.text-accent-3:hover {
     color: #00E676 !important
 }
 
-.green.accent-4 {
-    background-color: #00C853 !important
-}
-
-.green-text.text-accent-4 {
-    color: #00C853 !important
-}
-
+.green.accent-4,
 .green-hover.accent-4:hover {
     background-color: #00C853 !important
 }
 
+.green-text.text-accent-4,
 .green-text-hover.text-accent-4:hover {
     color: #00C853 !important
 }
 
-.light-green {
+.light-green,.light-green-hover:hover {
     background-color: #8bc34a !important
 }
 
-.light-green-text {
+.light-green-text,.light-green-text-hover:hover {
     color: #8bc34a !important
 }
 
-.light-green-hover:hover {
-    background-color: #8bc34a !important
-}
-
-.light-green-text-hover:hover {
-    color: #8bc34a !important
-}
-
-.light-green.lighten-5 {
+.light-green.lighten-5,.light-green-hover.lighten-5:hover {
     background-color: #f1f8e9 !important
 }
 
-.light-green-text.text-lighten-5 {
+.light-green-text.text-lighten-5,.light-green-text-hover.text-lighten-5:hover {
     color: #f1f8e9 !important
 }
 
-.light-green-hover.lighten-5:hover {
-    background-color: #f1f8e9 !important
-}
-
-.light-green-text-hover.text-lighten-5:hover {
-    color: #f1f8e9 !important
-}
-
-.light-green.lighten-4 {
+.light-green.lighten-4,.light-green-hover.lighten-4:hover {
     background-color: #dcedc8 !important
 }
 
-.light-green-text.text-lighten-4 {
+.light-green-text.text-lighten-4,.light-green-text-hover.text-lighten-4:hover {
     color: #dcedc8 !important
 }
 
-.light-green-hover.lighten-4:hover {
-    background-color: #dcedc8 !important
-}
-
-.light-green-text-hover.text-lighten-4:hover {
-    color: #dcedc8 !important
-}
-
-.light-green.lighten-3 {
+.light-green.lighten-3,.light-green-hover.lighten-3:hover {
     background-color: #c5e1a5 !important
 }
 
-.light-green-text.text-lighten-3 {
+.light-green-text.text-lighten-3,.light-green-text-hover.text-lighten-3:hover {
     color: #c5e1a5 !important
 }
 
-.light-green-hover.lighten-3:hover {
-    background-color: #c5e1a5 !important
-}
-
-.light-green-text-hover.text-lighten-3:hover {
-    color: #c5e1a5 !important
-}
-
-.light-green.lighten-2 {
+.light-green.lighten-2,.light-green-hover.lighten-2:hover {
     background-color: #aed581 !important
 }
 
-.light-green-text.text-lighten-2 {
+.light-green-text.text-lighten-2,.light-green-text-hover.text-lighten-2:hover {
     color: #aed581 !important
 }
 
-.light-green-hover.lighten-2:hover {
-    background-color: #aed581 !important
-}
-
-.light-green-text-hover.text-lighten-2:hover {
-    color: #aed581 !important
-}
-
-.light-green.lighten-1 {
+.light-green.lighten-1,.light-green-hover.lighten-1:hover {
     background-color: #9ccc65 !important
 }
 
-.light-green-text.text-lighten-1 {
+.light-green-text.text-lighten-1,.light-green-text-hover.text-lighten-1:hover {
     color: #9ccc65 !important
 }
 
-.light-green-hover.lighten-1:hover {
-    background-color: #9ccc65 !important
-}
-
-.light-green-text-hover.text-lighten-1:hover {
-    color: #9ccc65 !important
-}
-
-.light-green.darken-1 {
+.light-green.darken-1,.light-green-hover.darken-1:hover {
     background-color: #7cb342 !important
 }
 
-.light-green-text.text-darken-1 {
+.light-green-text.text-darken-1,.light-green-text-hover.text-darken-1:hover {
     color: #7cb342 !important
 }
 
-.light-green-hover.darken-1:hover {
-    background-color: #7cb342 !important
-}
-
-.light-green-text-hover.text-darken-1:hover {
-    color: #7cb342 !important
-}
-
-.light-green.darken-2 {
+.light-green.darken-2,.light-green-hover.darken-2:hover {
     background-color: #689f38 !important
 }
 
-.light-green-text.text-darken-2 {
+.light-green-text.text-darken-2,.light-green-text-hover.text-darken-2:hover {
     color: #689f38 !important
 }
 
-.light-green-hover.darken-2:hover {
-    background-color: #689f38 !important
-}
-
-.light-green-text-hover.text-darken-2:hover {
-    color: #689f38 !important
-}
-
-.light-green.darken-3 {
+.light-green.darken-3,.light-green-hover.darken-3:hover {
     background-color: #558b2f !important
 }
 
-.light-green-text.text-darken-3 {
+.light-green-text.text-darken-3,.light-green-text-hover.text-darken-3:hover {
     color: #558b2f !important
 }
 
-.light-green-hover.darken-3:hover {
-    background-color: #558b2f !important
-}
-
-.light-green-text-hover.text-darken-3:hover {
-    color: #558b2f !important
-}
-
-.light-green.darken-4 {
+.light-green.darken-4,.light-green-hover.darken-4:hover {
     background-color: #33691e !important
 }
 
-.light-green-text.text-darken-4 {
+.light-green-text.text-darken-4,.light-green-text-hover.text-darken-4:hover {
     color: #33691e !important
 }
 
-.light-green-hover.darken-4:hover {
-    background-color: #33691e !important
-}
-
-.light-green-text-hover.text-darken-4:hover {
-    color: #33691e !important
-}
-
-.light-green.accent-1 {
+.light-green.accent-1,.light-green-hover.accent-1:hover {
     background-color: #ccff90 !important
 }
 
-.light-green-text.text-accent-1 {
+.light-green-text.text-accent-1,.light-green-text-hover.text-accent-1:hover {
     color: #ccff90 !important
 }
 
-.light-green-hover.accent-1:hover {
-    background-color: #ccff90 !important
-}
-
-.light-green-text-hover.text-accent-1:hover {
-    color: #ccff90 !important
-}
-
-.light-green.accent-2 {
+.light-green.accent-2,.light-green-hover.accent-2:hover {
     background-color: #b2ff59 !important
 }
 
-.light-green-text.text-accent-2 {
+.light-green-text.text-accent-2,.light-green-text-hover.text-accent-2:hover {
     color: #b2ff59 !important
 }
 
-.light-green-hover.accent-2:hover {
-    background-color: #b2ff59 !important
-}
-
-.light-green-text-hover.text-accent-2:hover {
-    color: #b2ff59 !important
-}
-
-.light-green.accent-3 {
+.light-green.accent-3,.light-green-hover.accent-3:hover {
     background-color: #76ff03 !important
 }
 
-.light-green-text.text-accent-3 {
+.light-green-text.text-accent-3,.light-green-text-hover.text-accent-3:hover {
     color: #76ff03 !important
 }
 
-.light-green-hover.accent-3:hover {
-    background-color: #76ff03 !important
-}
-
-.light-green-text-hover.text-accent-3:hover {
-    color: #76ff03 !important
-}
-
-.light-green.accent-4 {
+.light-green.accent-4,.light-green-hover.accent-4:hover {
     background-color: #64dd17 !important
 }
 
-.light-green-text.text-accent-4 {
+.light-green-text.text-accent-4,.light-green-text-hover.text-accent-4:hover {
     color: #64dd17 !important
 }
 
-.light-green-hover.accent-4:hover {
-    background-color: #64dd17 !important
-}
-
-.light-green-text-hover.text-accent-4:hover {
-    color: #64dd17 !important
-}
-
-.lime {
+.lime,.lime-hover:hover {
     background-color: #cddc39 !important
 }
 
-.lime-text {
+.lime-text,.lime-text-hover:hover {
     color: #cddc39 !important
 }
 
-.lime-hover:hover {
-    background-color: #cddc39 !important
-}
-
-.lime-text-hover:hover {
-    color: #cddc39 !important
-}
-
-.lime.lighten-5 {
+.lime.lighten-5,.lime-hover.lighten-5:hover {
     background-color: #f9fbe7 !important
 }
 
-.lime-text.text-lighten-5 {
+.lime-text.text-lighten-5,.lime-text-hover.text-lighten-5:hover {
     color: #f9fbe7 !important
 }
 
-.lime-hover.lighten-5:hover {
-    background-color: #f9fbe7 !important
-}
-
-.lime-text-hover.text-lighten-5:hover {
-    color: #f9fbe7 !important
-}
-
-.lime.lighten-4 {
+.lime.lighten-4,.lime-hover.lighten-4:hover {
     background-color: #f0f4c3 !important
 }
 
-.lime-text.text-lighten-4 {
+.lime-text.text-lighten-4,.lime-text-hover.text-lighten-4:hover {
     color: #f0f4c3 !important
 }
 
-.lime-hover.lighten-4:hover {
-    background-color: #f0f4c3 !important
-}
-
-.lime-text-hover.text-lighten-4:hover {
-    color: #f0f4c3 !important
-}
-
-.lime.lighten-3 {
+.lime.lighten-3,.lime-hover.lighten-3:hover {
     background-color: #e6ee9c !important
 }
 
-.lime-text.text-lighten-3 {
+.lime-text.text-lighten-3,.lime-text-hover.text-lighten-3:hover {
     color: #e6ee9c !important
 }
 
-.lime-hover.lighten-3:hover {
-    background-color: #e6ee9c !important
-}
-
-.lime-text-hover.text-lighten-3:hover {
-    color: #e6ee9c !important
-}
-
-.lime.lighten-2 {
+.lime.lighten-2,.lime-hover.lighten-2:hover {
     background-color: #dce775 !important
 }
 
-.lime-text.text-lighten-2 {
+.lime-text.text-lighten-2,.lime-text-hover.text-lighten-2:hover {
     color: #dce775 !important
 }
 
-.lime-hover.lighten-2:hover {
-    background-color: #dce775 !important
-}
-
-.lime-text-hover.text-lighten-2:hover {
-    color: #dce775 !important
-}
-
-.lime.lighten-1 {
+.lime.lighten-1,.lime-hover.lighten-1:hover {
     background-color: #d4e157 !important
 }
 
-.lime-text.text-lighten-1 {
+.lime-text.text-lighten-1,.lime-text-hover.text-lighten-1:hover {
     color: #d4e157 !important
 }
 
-.lime-hover.lighten-1:hover {
-    background-color: #d4e157 !important
-}
-
-.lime-text-hover.text-lighten-1:hover {
-    color: #d4e157 !important
-}
-
-.lime.darken-1 {
+.lime.darken-1,.lime-hover.darken-1:hover {
     background-color: #c0ca33 !important
 }
 
-.lime-text.text-darken-1 {
+.lime-text.text-darken-1,.lime-text-hover.text-darken-1:hover {
     color: #c0ca33 !important
 }
 
-.lime-hover.darken-1:hover {
-    background-color: #c0ca33 !important
-}
-
-.lime-text-hover.text-darken-1:hover {
-    color: #c0ca33 !important
-}
-
-.lime.darken-2 {
+.lime.darken-2,.lime-hover.darken-2:hover {
     background-color: #afb42b !important
 }
 
-.lime-text.text-darken-2 {
+.lime-text.text-darken-2,.lime-text-hover.text-darken-2:hover {
     color: #afb42b !important
 }
 
-.lime-hover.darken-2:hover {
-    background-color: #afb42b !important
-}
-
-.lime-text-hover.text-darken-2:hover {
-    color: #afb42b !important
-}
-
-.lime.darken-3 {
+.lime.darken-3,.lime-hover.darken-3:hover {
     background-color: #9e9d24 !important
 }
 
-.lime-text.text-darken-3 {
+.lime-text.text-darken-3,.lime-text-hover.text-darken-3:hover {
     color: #9e9d24 !important
 }
 
-.lime-hover.darken-3:hover {
-    background-color: #9e9d24 !important
-}
-
-.lime-text-hover.text-darken-3:hover {
-    color: #9e9d24 !important
-}
-
-.lime.darken-4 {
+.lime.darken-4,.lime-hover.darken-4:hover {
     background-color: #827717 !important
 }
 
-.lime-text.text-darken-4 {
+.lime-text.text-darken-4,.lime-text-hover.text-darken-4:hover {
     color: #827717 !important
 }
 
-.lime-hover.darken-4:hover {
-    background-color: #827717 !important
-}
-
-.lime-text-hover.text-darken-4:hover {
-    color: #827717 !important
-}
-
-.lime.accent-1 {
+.lime.accent-1,.lime-hover.accent-1:hover {
     background-color: #f4ff81 !important
 }
 
-.lime-text.text-accent-1 {
+.lime-text.text-accent-1,.lime-text-hover.text-accent-1:hover {
     color: #f4ff81 !important
 }
 
-.lime-hover.accent-1:hover {
-    background-color: #f4ff81 !important
-}
-
-.lime-text-hover.text-accent-1:hover {
-    color: #f4ff81 !important
-}
-
-.lime.accent-2 {
+.lime.accent-2,.lime-hover.accent-2:hover {
     background-color: #eeff41 !important
 }
 
-.lime-text.text-accent-2 {
+.lime-text.text-accent-2,.lime-text-hover.text-accent-2:hover {
     color: #eeff41 !important
 }
 
-.lime-hover.accent-2:hover {
-    background-color: #eeff41 !important
-}
-
-.lime-text-hover.text-accent-2:hover {
-    color: #eeff41 !important
-}
-
-.lime.accent-3 {
+.lime.accent-3,.lime-hover.accent-3:hover {
     background-color: #c6ff00 !important
 }
 
-.lime-text.text-accent-3 {
+.lime-text.text-accent-3,.lime-text-hover.text-accent-3:hover {
     color: #c6ff00 !important
 }
 
-.lime-hover.accent-3:hover {
-    background-color: #c6ff00 !important
-}
-
-.lime-text-hover.text-accent-3:hover {
-    color: #c6ff00 !important
-}
-
-.lime.accent-4 {
+.lime.accent-4,.lime-hover.accent-4:hover {
     background-color: #aeea00 !important
 }
 
-.lime-text.text-accent-4 {
-    color: #aeea00 !important
-}
-
-.lime-hover.accent-4:hover {
-    background-color: #aeea00 !important
-}
-
-.lime-text-hover.text-accent-4:hover {
+.lime-text.text-accent-4,.lime-text-hover.text-accent-4:hover {
     color: #aeea00 !important
 }
 
